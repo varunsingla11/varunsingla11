@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @varunsingla11
-- 👀 I’m interested in coding(supposedly)
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning C++ and DSA
 - 💞️ I’m looking to learn and create opportunities for myself
 - 📫 How to reach me -:varun.singla110@gmail.com
